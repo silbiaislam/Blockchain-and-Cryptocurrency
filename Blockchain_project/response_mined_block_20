@@ -1,1 +1,7 @@
-{"index":20,"message":"Congratulations, you just mined a block!","previous_hash":"5ad2dc31fcf264429c9d7478634aca859878d89ef1e47c7566fc751cfd11e00c","proof":46891,"timestamp":"2022-06-06 00:31:46.259944"}
+{
+  "index":20,
+  "message":"Congratulations, you just mined a block!",
+  "previous_hash":"5ad2dc31fcf264429c9d7478634aca859878d89ef1e47c7566fc751cfd11e00c",
+  "proof":46891,
+  "timestamp":"2022-06-06 00:31:46.259944"
+}
