@@ -1,10 +1,10 @@
-# Module 1 - Create a Blockchain
+# Creating a Blockchain
 
 # To be installed:
 # Flask==0.12.2: pip install Flask==0.12.2
 # Postman HTTP Client: https://www.getpostman.com/
 
-# Importing the libraries
+# Importing relevant libraries
 import datetime
 import hashlib
 import json
@@ -60,7 +60,7 @@ class Blockchain:
             block_index += 1
         return True
 
-# Part 2 - Mining our Blockchain
+# Part 2 - Mining the Blockchain
 
 # Creating a Web App
 app = Flask(__name__)
